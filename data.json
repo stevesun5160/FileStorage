@@ -1,0 +1,123 @@
+{
+  "Products": {
+    "MacBookAir": {
+      "overview": ["MacBook Air", "NT$30,900起"],
+      "spec": [{
+        "description": ["7核心GPU", "NT$30,900起"],
+        "rom": ["256GB SSD", "512GB SSD", "1TB SSD", "2TB SSD"],
+        "basePrice": 30900,
+        "priceAdd": [0, 6000, 12000, 24000]
+      }, {
+        "description": ["8核心GPU", "NT$38,900起"],
+        "rom": ["512GB SSD", "1TB SSD", "2TB SSD"],
+        "basePrice": 38900,
+        "priceAdd": [0, 6000, 18000]
+      }],
+      "color": [{
+        "colorName": "銀色",
+        "colorValue": "#B0B4B7",
+        "imgUrl": "macbook-air-silver-config-201810.jpg"
+      }, {
+        "colorName": "金色",
+        "colorValue": "#F0E0D3",
+        "imgUrl": "macbook-air-gold-select-201810.jpg"
+      }, {
+        "colorName": "太空灰",
+        "colorValue": "#E0E2E1",
+        "imgUrl": "macbook-air-space-gray-config-201810.jpg"
+      }],
+      "optional": [{
+        "optionalName": "Final Cut Pro",
+        "additionalCost": 9990
+      }, {
+        "optionalName": "Logic Pro",
+        "additionalCost": 6590
+      }]
+    },
+    "iPad": {
+      "overview": ["iPad", "NT$10,500起"],
+      "spec": [{
+        "description": ["Wi-Fi", "NT$10,500起"],
+        "rom": ["32GB", "128GB"],
+        "basePrice": 10500,
+        "priceAdd": [0, 4300]
+      }, {
+        "description": ["Wi-Fi + 行動網路", "NT$13,500起"],
+        "rom": ["32GB", "128GB"],
+        "basePrice": 13500,
+        "priceAdd": [0, 4300]
+      }],
+      "color": [{
+        "colorName": "銀色",
+        "colorValue": "#B0B4B7",
+        "imgUrl": "ipad-2020-hero-silver-wifi-select.png"
+      }, {
+        "colorName": "金色",
+        "colorValue": "#F0E0D3",
+        "imgUrl": "ipad-2020-hero-gold-wifi-select.png"
+      }, {
+        "colorName": "太空灰",
+        "colorValue": "#E0E2E1",
+        "imgUrl": "ipad-2020-hero-space-wifi-select.png"
+      }],
+      "rom": [{
+        "storage": "32GB",
+        "storageDescription": "NT$10,500起"
+      }, {
+        "storage": "128GB",
+        "storageDescription": "NT$13,500起"
+      }],
+      "optional": []
+    },
+    "iPhone": {
+      "overview": ["iPhone 12", "NT$23,900起"],
+      "spec": [{
+        "description": ["iPhone 12 mini", "NT$23,900起"],
+        "rom": ["64GB", "128GB", "256GB"],
+        "basePrice": 23900,
+        "priceAdd": [0, 1600, 5100]
+      }, {
+        "description": ["iPhone 12", "NT$26,900起"],
+        "rom": ["64GB", "128GB", "256GB"],
+        "basePrice": 26900,
+        "priceAdd": [0, 1600, 5100]
+      }],
+      "color": [{
+        "colorName": "白色",
+        "colorValue": "#F7F3F0",
+        "imgUrl": "iphone-12-white-select-2020.png"
+      }, {
+        "colorName": "黑色",
+        "colorValue": "#302D36",
+        "imgUrl": "iphone-12-black-select-2020.png"
+      }, {
+        "colorName": "藍色",
+        "colorValue": "#1D5073",
+        "imgUrl": "iphone-12-blue-select-2020.png"
+      }, {
+        "colorName": "綠色",
+        "colorValue": "#DCF1DA",
+        "imgUrl": "iphone-12-green-select-2020.png"
+      }, {
+        "colorName": "紫色",
+        "colorValue": "#C0B8E8",
+        "imgUrl": "iphone-12-purple-select-2021.png"
+      }, {
+        "colorName": "(PRODUCT)RED",
+        "colorValue": "#DC4848",
+        "imgUrl": "iphone-12-red-select-2020.png"
+      }],
+      "rom": [{
+        "storage": "64GB",
+        "storageDescription": "NT$23,900起"
+      }, {
+        "storage": "128GB",
+        "storageDescription": "NT$25,500起"
+      }, {
+        "storage": "256GB",
+        "storageDescription": "NT$29,000起"
+      }],
+      "optional": []
+    }
+  }
+}
