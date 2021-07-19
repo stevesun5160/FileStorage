@@ -24,15 +24,15 @@
       }],
       "rom": [{
         "storage": "512GB SSD",
-        "storageDescription": "+6,000 元",
+        "storageDescription": "+6,000元",
         "priceAdd": 6000
       }, {
         "storage": "1TB SSD",
-        "storageDescription": "+12,000 元",
+        "storageDescription": "+12,000元",
         "priceAdd": 12000
       }, {
         "storage": "2TB SSD",
-        "storageDescription": "+24,000 元",
+        "storageDescription": "+24,000元",
         "priceAdd": 24000
       }],
       "optional": [{
