@@ -1,73 +1,73 @@
 {
   "products": [{
       "color": "金色",
-      "price": "10,900元",
+      "price": "10,500元",
       "storage": "32GB",
       "network": "Wi-Fi"
     },
     {
       "color": "金色",
-      "price": "13,900元",
+      "price": "14,800元",
       "storage": "128GB",
       "network": "Wi-Fi"
     },
     {
       "color": "太空灰色",
-      "price": "10,900元",
+      "price": "10,500元",
       "storage": "32GB",
       "network": "Wi-Fi"
     },
     {
       "color": "太空灰色",
-      "price": "13,900元",
+      "price": "14,800元",
       "storage": "128GB",
       "network": "Wi-Fi"
     },
     {
       "color": "銀色",
-      "price": "10,900元",
+      "price": "10,500元",
       "storage": "32GB",
       "network": "Wi-Fi"
     },
     {
       "color": "銀色",
-      "price": "13,900元",
+      "price": "14,800元",
       "storage": "128GB",
       "network": "Wi-Fi"
     },
     {
       "color": "金色",
-      "price": "15,400元",
+      "price": "14,800元",
       "storage": "32GB",
       "network": "Wi-Fi + 行動網路"
     },
     {
       "color": "金色",
-      "price": "18,400元",
+      "price": "17,800元",
       "storage": "128GB",
       "network": "Wi-Fi + 行動網路"
     },
     {
       "color": "太空灰色",
-      "price": "15,400元",
+      "price": "14,800元",
       "storage": "32GB",
       "network": "Wi-Fi + 行動網路"
     },
     {
       "color": "太空灰色",
-      "price": "18,400元",
+      "price": "17,800元",
       "storage": "128GB",
       "network": "Wi-Fi + 行動網路"
     },
     {
       "color": "銀色",
-      "price": "15,400元",
+      "price": "14,800元",
       "storage": "32GB",
       "network": "Wi-Fi + 行動網路"
     },
     {
       "color": "銀色",
-      "price": "18,400元",
+      "price": "17,800元",
       "storage": "128GB",
       "network": "Wi-Fi + 行動網路"
     }
