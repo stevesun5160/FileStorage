@@ -1,1 +1,62 @@
-{"basic":{"name":"","location":{"city":"","district":"","address":""},"description":"","types":[],"photos":[]},"price":{"capacity":"","minHour":"","usage":[],"time":[]},"amenity":{"default":[{"name":"","count":""}],"other":[{"name":"","count":""}],"recording":{"isProvide":false,"itemList":[{"name":"","count":"","brand":"","model":""}]},"rental":{"isProvide":false,"itemList":[{"name":"","count":"","price":""}]}},"rules":["遵守大樓規範，公共區域應保持輕聲細語，請勿大聲喧嘩。","自行清潔環境，愛惜空間內所有裝潢設備，不收取額外清潔費，但若造成家具損毀，需額外支付維護費用。","請配合準時離場，不得提早進入或超時使用。","不可烹飪或使用明火之加熱設備。","嚴禁吸菸、毒品、性愛、攜帶危險物品，以及賭博等違反法令規定、公共秩序或善良風俗的行為。"],"highlight":""}
+{
+  "info": {
+    "name": "MicZone遠東館",
+    "location": {
+      "city": "",
+      "district": "",
+      "address": ""
+    },
+    "description": "",
+    "types": [],
+    "photos": []
+  },
+  "price": {
+    "capacity": "",
+    "minHour": "",
+    "usage": [],
+    "time": []
+  },
+  "amenity": {
+    "basic": [
+      {
+        "name": "",
+        "count": ""
+      }
+    ],
+    "other": [
+      {
+        "name": "",
+        "count": ""
+      }
+    ],
+    "recording": {
+      "isProvide": false,
+      "itemList": [
+        {
+          "name": "",
+          "count": "",
+          "brand": "",
+          "model": ""
+        }
+      ]
+    },
+    "rental": {
+      "isProvide": false,
+      "itemList": [
+        {
+          "name": "",
+          "count": "",
+          "price": ""
+        }
+      ]
+    }
+  },
+  "rule": [
+    "遵守大樓規範，公共區域應保持輕聲細語，請勿大聲喧嘩。",
+    "自行清潔環境，愛惜空間內所有裝潢設備，不收取額外清潔費，但若造成家具損毀，需額外支付維護費用。",
+    "請配合準時離場，不得提早進入或超時使用。",
+    "不可烹飪或使用明火之加熱設備。",
+    "嚴禁吸菸、毒品、性愛、攜帶危險物品，以及賭博等違反法令規定、公共秩序或善良風俗的行為。"
+  ],
+  "highlight": ""
+}
