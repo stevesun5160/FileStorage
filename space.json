@@ -13,7 +13,12 @@
   "price": {
     "capacity": "",
     "minHour": "",
-    "usage": [{"name": "", "price": ""}],
+    "usage": [
+      {
+        "name": "", 
+        "price": ""
+      }
+    ],
     "time": []
   },
   "amenity": {
