@@ -15,6 +15,7 @@
     "minHour": "",
     "usage": [
       {
+        "id": 0,
         "name": "", 
         "price": ""
       }
@@ -24,12 +25,14 @@
   "amenity": {
     "basic": [
       {
+        "id": 0,
         "name": "",
         "count": ""
       }
     ],
     "other": [
       {
+        "id": 0,
         "name": "",
         "count": ""
       }
@@ -38,6 +41,7 @@
       "isProvide": false,
       "itemList": [
         {
+          "id": 0,
           "name": "",
           "count": "",
           "brand": "",
@@ -49,6 +53,7 @@
       "isProvide": false,
       "itemList": [
         {
+          "id": 0,
           "name": "",
           "count": "",
           "price": ""
