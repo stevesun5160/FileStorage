@@ -13,14 +13,14 @@
   "price": {
     "capacity": "",
     "minHour": "",
-    "usage": [],
+    "usage": [{"name": "", "price": ""}],
     "time": []
   },
   "amenity": {
     "basic": [
       {
         "name": "",
-        "price": ""
+        "count": ""
       }
     ],
     "other": [
