@@ -20,7 +20,50 @@
         "price": ""
       }
     ],
-    "time": []
+    "time": [
+      {
+        "day": "monday",
+        "isOperate": false,
+        "startTime": "",
+        "endTime": ""
+      },
+      {
+        "day": "tuesday",
+        "isOperate": false,
+        "startTime": "",
+        "endTime": ""
+      },
+      {
+        "day": "wednesday",
+        "isOperate": false,
+        "startTime": "",
+        "endTime": ""
+      },
+      {
+        "day": "thursday",
+        "isOperate": false,
+        "startTime": "",
+        "endTime": ""
+      },
+      {
+        "day": "friday",
+        "isOperate": false,
+        "startTime": "",
+        "endTime": ""
+      },
+      {
+        "day": "saturday",
+        "isOperate": false,
+        "startTime": "",
+        "endTime": ""
+      },
+      {
+        "day": "sunday",
+        "isOperate": false,
+        "startTime": "",
+        "endTime": ""
+      }
+    ]
   },
   "amenity": {
     "basic": [
